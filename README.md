@@ -1,10 +1,10 @@
-![Password breach check demo](password_check_demo.jpg)
-
 # Password Breach Checker
 
 A Python security tool that checks whether a password has appeared in known data breaches,
 using a privacy-preserving k-anonymity approach with the Have I Been Pwned (HIBP) API.
 The tool can also generate strong password suggestions that were not found in known breaches.
+
+![Password breach check demo](password_check_demo.jpg)
 
 ## Key Features
 - Checks passwords against the HIBP database without sending the password or full hash
