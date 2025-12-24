@@ -1,3 +1,5 @@
+![Password breach check demo](password_check_demo.png)
+
 # Password Breach Checker
 
 A Python security tool that checks whether a password has appeared in known data breaches,
