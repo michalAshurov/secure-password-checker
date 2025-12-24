@@ -1,4 +1,4 @@
-![Password breach check demo](password_check_demo.png)
+![Password breach check demo](password_check_demo.jpg)
 
 # Password Breach Checker
 
